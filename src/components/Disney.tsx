@@ -44,6 +44,7 @@ const StyleForNameDiv=styled.div`
 
 const StyleForImageImg=styled.img`
     border: 10px solid #1B262C;
+    max-width: 100%;
 `;
 
 const StyleForNoImageP=styled.p`
